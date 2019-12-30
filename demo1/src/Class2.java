@@ -7,7 +7,7 @@ public class Class2 {
     public static void main(String[] args){
         System.out.println("Class2  第一次提交");
         System.out.println("Class2  第而次提交");
-
+        System.out.println("Class2  再次提交");
     }
 
 }
