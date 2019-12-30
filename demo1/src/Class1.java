@@ -12,6 +12,9 @@ public class Class1 {
          */
         System.out.println("这个时候我得更新代码，存下我的版本");
         System.out.println("updating..........");
+
+
+        System.out.println("再来一次。。。");
     }
 
 }
