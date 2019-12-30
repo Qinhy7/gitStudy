@@ -10,4 +10,8 @@ public class Class2 {
         System.out.println("Class2  再次提交");
     }
 
+    public void test(){
+        System.out.println("sssss");
+    }
+
 }
